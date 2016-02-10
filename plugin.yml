@@ -1,0 +1,6 @@
+name: MessageSounds
+description: When message is sent, sound plays.
+author: MCUnderground
+main: sw\ms\Main
+version: 1.0.0
+api: 1.4.0
